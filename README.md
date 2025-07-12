@@ -29,13 +29,12 @@ This project tackles a major issue in healthcare: **physician burnout caused by 
 
 | Area                      | Tools Used                         |
 |---------------------------|------------------------------------|
-| Automation & Orchestration| `n8n` (low-code workflow automation) |
+| Automation & Orchestration| `n8n`                              |
 | Speech Recognition        | `AssemblyAI`                       |
 | Summarization & NLP       | `OpenAI API` / LLM Agent           |
 | Database & Backend        | `Supabase`                         |
 | Frontend Framework        | `Next.js`                          |
 | Styling                   | `Tailwind CSS`                     |
-| Deployment & Hosting      | Vercel / Supabase Hosting
 
 ---
 
@@ -78,16 +77,5 @@ This project is powered by **n8n**, orchestrating an automated pipeline from aud
 
 ---
 
-## 🧠 Use Case: Healthcare
 
-Manual documentation consumes valuable time for medical professionals. This system helps by:
-
-- Automatically generating concise clinical summaries  
-- Structuring key clinical data for EMR systems  
-- Reducing time spent on paperwork  
-- Improving data accuracy and consistency
-
----
-
-## 📂 Folder Structure (suggested)
 
